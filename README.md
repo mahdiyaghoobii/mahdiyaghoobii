@@ -1,13 +1,18 @@
 ### Hi there! 👋 I'm Mahdi Yaghoobi
-<p> I am <b>Mahdi Yaghoobi</b>, a passionate <b>Backend Developer</b> crafting robust, scalable, and secure web applications. </p>
+A passionate **Backend Developer** dedicated to crafting robust, scalable, and secure web applications.
 
-🚀 **Backend Developer** | Building efficient server-side solutions with a focus on innovation
+🚀 I specialize in building efficient server-side solutions with a focus on innovation, leveraging:
+* **Languages & Frameworks:** Python, Django, Django REST Framework (DRF)
+* **API Design:** High-performance RESTful APIs, GraphQL
+* **Databases & Caching:** PostgreSQL, Redis
+* **Asynchronous Processing & Messaging:** Celery, RabbitMQ
+* **Authentication:** JWT
+* **Core Principles & Tools:** Object-Oriented Programming (OOP), Clean Code, Git for version control
 
-#### I’m a Backend Developer specializing in **Python**, **Django**, and **REST-API**, with expertise in designing high-performance **RESTful APIs** and **GraphQL** endpoints. I thrive on writing clean, maintainable code and leveraging tools like **Redis**, **Celery**, and **RabbitMQ** to build scalable architectures. Always eager to learn, collaborate, and push the boundaries of backend development. Let’s build something extraordinary together! 🚀
+I thrive on writing clean, maintainable code, and I'm always eager to learn, collaborate, and push the boundaries of backend development. Let’s build something extraordinary together! 🚀
 
-As a **Python** developer, I’m proficient in **Object-Oriented Programming (OOP)** and have hands-on experience with **Django**, **DRF**, and **GraphQL** for building robust APIs. I’m skilled in **PostgreSQL** for relational database management and use **JWT** for secure authentication. My work with **Redis**, **Celery**, and **RabbitMQ** enables efficient caching, background task processing, and asynchronous communication. I rely on **Git** for seamless version control and collaboration.
 
-**🎇** Check out my projects to see my work in action! ([**Explore my repos**](https://github.com/yourusername?tab=repositories))
+**🎇** Check out my projects to see my work in action! ([**Explore my repos**](https://github.com/mahdiyaghoobii?tab=repositories))
 
 **✊** I’m passionate about mastering backend development, exploring modern architectures, and adopting cutting-edge technologies to deliver impactful solutions.
 
